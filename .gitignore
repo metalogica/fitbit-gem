@@ -1,0 +1,12 @@
+*.gem
+.env
+.gemrelease
+
+.ruby-version
+
+# Ignore RubyMine files
+/.idea
+
+doc
+.yardoc/
+coverage/
